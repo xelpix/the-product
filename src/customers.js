@@ -20,7 +20,7 @@ export const reviews = [
     name: 'Anonymous',
     rating: 1,
     review:
-      "C'mon, this is bu******t. You will never find a job with that project, man, be realistic! The market is overwhelmed! One star just for trying, though. They probably will delete my comments soon. Bye.",
+      "C'mon, this is bu******t. It's not gonna work, be realistic! The market is overwhelmed! One star just for trying, though. They probably will delete my comments soon. Bye.",
     image: 'customer3.svg',
   },
 ];
